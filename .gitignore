@@ -21,9 +21,11 @@ wheels/
 .installed.cfg
 *.egg
 
-# Output directories
+# Output and data directories
 output*/
 configs*/
+test-1/
+Swarm*
 
 # OS generated files
 .DS_Store

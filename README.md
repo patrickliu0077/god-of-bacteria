@@ -24,8 +24,8 @@ A sophisticated tool for analyzing bacterial colony growth in petri dishes, feat
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/patrickliu0077/god-of-bacteria-2.git
-cd god-of-bacteria-2
+git clone https://github.com/patrickliu0077/god-of-bacteria.git
+cd god-of-bacteria
 ```
 
 2. Install required packages:
@@ -165,6 +165,5 @@ MIT License
 
 ## Contact
 
-Patrick Liu - patrickliu0077@gmail.com
 
-Project Link: [https://github.com/patrickliu0077/god-of-bacteria-2](https://github.com/patrickliu0077/god-of-bacteria-2)
+Project Link: [https://github.com/patrickliu0077/god-of-bacteria](https://github.com/patrickliu0077/god-of-bacteria)
