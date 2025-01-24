@@ -1,0 +1,1306 @@
+{
+  "metadata": {
+    "processed_date": "2025-01-24 16:01:34",
+    "image_count": 27,
+    "start_image": "swarm787",
+    "end_image": "swarm813"
+  },
+  "measurements": [
+    {
+      "image_name": "swarm787",
+      "image_number": 1,
+      "dish_number": 1,
+      "timestamp": "2025-01-24 15:56:28",
+      "radius": 326.0,
+      "thickness": 27.0
+    },
+    {
+      "image_name": "swarm787",
+      "image_number": 1,
+      "dish_number": 2,
+      "timestamp": "2025-01-24 15:56:29",
+      "radius": 326.0,
+      "thickness": 27.0
+    },
+    {
+      "image_name": "swarm787",
+      "image_number": 1,
+      "dish_number": 3,
+      "timestamp": "2025-01-24 15:56:30",
+      "radius": 326.0,
+      "thickness": 27.0
+    },
+    {
+      "image_name": "swarm787",
+      "image_number": 1,
+      "dish_number": 4,
+      "timestamp": "2025-01-24 15:56:31",
+      "radius": 342.0,
+      "thickness": 26.0
+    },
+    {
+      "image_name": "swarm787",
+      "image_number": 1,
+      "dish_number": 5,
+      "timestamp": "2025-01-24 15:56:32",
+      "radius": 325.0,
+      "thickness": 27.0
+    },
+    {
+      "image_name": "swarm787",
+      "image_number": 1,
+      "dish_number": 6,
+      "timestamp": "2025-01-24 15:56:33",
+      "radius": 359.0,
+      "thickness": 67.0
+    },
+    {
+      "image_name": "swarm788",
+      "image_number": 2,
+      "dish_number": 1,
+      "timestamp": "2025-01-24 15:56:40",
+      "radius": 329.0,
+      "thickness": 31.0
+    },
+    {
+      "image_name": "swarm788",
+      "image_number": 2,
+      "dish_number": 2,
+      "timestamp": "2025-01-24 15:56:41",
+      "radius": 326.0,
+      "thickness": 27.0
+    },
+    {
+      "image_name": "swarm788",
+      "image_number": 2,
+      "dish_number": 3,
+      "timestamp": "2025-01-24 15:56:42",
+      "radius": 341.0,
+      "thickness": 25.0
+    },
+    {
+      "image_name": "swarm788",
+      "image_number": 2,
+      "dish_number": 4,
+      "timestamp": "2025-01-24 15:56:43",
+      "radius": 334.0,
+      "thickness": 11.0
+    },
+    {
+      "image_name": "swarm788",
+      "image_number": 2,
+      "dish_number": 5,
+      "timestamp": "2025-01-24 15:56:44",
+      "radius": 414.0,
+      "thickness": 82.80000000000001
+    },
+    {
+      "image_name": "swarm788",
+      "image_number": 2,
+      "dish_number": 6,
+      "timestamp": "2025-01-24 15:56:45",
+      "radius": 325.0,
+      "thickness": 27.0
+    },
+    {
+      "image_name": "swarm789",
+      "image_number": 3,
+      "dish_number": 1,
+      "timestamp": "2025-01-24 15:56:51",
+      "radius": 326.0,
+      "thickness": 27.0
+    },
+    {
+      "image_name": "swarm789",
+      "image_number": 3,
+      "dish_number": 2,
+      "timestamp": "2025-01-24 15:56:52",
+      "radius": 340.0,
+      "thickness": 24.0
+    },
+    {
+      "image_name": "swarm789",
+      "image_number": 3,
+      "dish_number": 3,
+      "timestamp": "2025-01-24 15:56:53",
+      "radius": 331.0,
+      "thickness": 33.0
+    },
+    {
+      "image_name": "swarm789",
+      "image_number": 3,
+      "dish_number": 4,
+      "timestamp": "2025-01-24 15:56:54",
+      "radius": 413.0,
+      "thickness": 82.60000000000001
+    },
+    {
+      "image_name": "swarm789",
+      "image_number": 3,
+      "dish_number": 5,
+      "timestamp": "2025-01-24 15:56:55",
+      "radius": 326.0,
+      "thickness": 27.0
+    },
+    {
+      "image_name": "swarm789",
+      "image_number": 3,
+      "dish_number": 6,
+      "timestamp": "2025-01-24 15:56:56",
+      "radius": 342.0,
+      "thickness": 26.0
+    },
+    {
+      "image_name": "swarm790",
+      "image_number": 4,
+      "dish_number": 1,
+      "timestamp": "2025-01-24 15:57:03",
+      "radius": 327.0,
+      "thickness": 28.0
+    },
+    {
+      "image_name": "swarm790",
+      "image_number": 4,
+      "dish_number": 2,
+      "timestamp": "2025-01-24 15:57:04",
+      "radius": 326.0,
+      "thickness": 27.0
+    },
+    {
+      "image_name": "swarm790",
+      "image_number": 4,
+      "dish_number": 3,
+      "timestamp": "2025-01-24 15:57:05",
+      "radius": 327.0,
+      "thickness": 28.0
+    },
+    {
+      "image_name": "swarm790",
+      "image_number": 4,
+      "dish_number": 4,
+      "timestamp": "2025-01-24 15:57:06",
+      "radius": 326.0,
+      "thickness": 27.0
+    },
+    {
+      "image_name": "swarm790",
+      "image_number": 4,
+      "dish_number": 5,
+      "timestamp": "2025-01-24 15:57:07",
+      "radius": 360.0,
+      "thickness": 68.0
+    },
+    {
+      "image_name": "swarm790",
+      "image_number": 4,
+      "dish_number": 6,
+      "timestamp": "2025-01-24 15:57:08",
+      "radius": 326.0,
+      "thickness": 28.0
+    },
+    {
+      "image_name": "swarm791",
+      "image_number": 5,
+      "dish_number": 1,
+      "timestamp": "2025-01-24 15:57:15",
+      "radius": 327.0,
+      "thickness": 28.0
+    },
+    {
+      "image_name": "swarm791",
+      "image_number": 5,
+      "dish_number": 2,
+      "timestamp": "2025-01-24 15:57:16",
+      "radius": 327.0,
+      "thickness": 28.0
+    },
+    {
+      "image_name": "swarm791",
+      "image_number": 5,
+      "dish_number": 3,
+      "timestamp": "2025-01-24 15:57:17",
+      "radius": 326.0,
+      "thickness": 27.0
+    },
+    {
+      "image_name": "swarm791",
+      "image_number": 5,
+      "dish_number": 4,
+      "timestamp": "2025-01-24 15:57:18",
+      "radius": 333.0,
+      "thickness": 1.0
+    },
+    {
+      "image_name": "swarm791",
+      "image_number": 5,
+      "dish_number": 5,
+      "timestamp": "2025-01-24 15:57:19",
+      "radius": 326.0,
+      "thickness": 27.0
+    },
+    {
+      "image_name": "swarm791",
+      "image_number": 5,
+      "dish_number": 6,
+      "timestamp": "2025-01-24 15:57:20",
+      "radius": 326.0,
+      "thickness": 28.0
+    },
+    {
+      "image_name": "swarm792",
+      "image_number": 6,
+      "dish_number": 1,
+      "timestamp": "2025-01-24 15:57:26",
+      "radius": 326.0,
+      "thickness": 28.0
+    },
+    {
+      "image_name": "swarm792",
+      "image_number": 6,
+      "dish_number": 2,
+      "timestamp": "2025-01-24 15:57:27",
+      "radius": 327.0,
+      "thickness": 28.0
+    },
+    {
+      "image_name": "swarm792",
+      "image_number": 6,
+      "dish_number": 3,
+      "timestamp": "2025-01-24 15:57:28",
+      "radius": 340.0,
+      "thickness": 24.0
+    },
+    {
+      "image_name": "swarm792",
+      "image_number": 6,
+      "dish_number": 4,
+      "timestamp": "2025-01-24 15:57:29",
+      "radius": 326.0,
+      "thickness": 27.0
+    },
+    {
+      "image_name": "swarm792",
+      "image_number": 6,
+      "dish_number": 5,
+      "timestamp": "2025-01-24 15:57:30",
+      "radius": 357.0,
+      "thickness": 298.0
+    },
+    {
+      "image_name": "swarm792",
+      "image_number": 6,
+      "dish_number": 6,
+      "timestamp": "2025-01-24 15:57:31",
+      "radius": 341.0,
+      "thickness": 24.0
+    },
+    {
+      "image_name": "swarm793",
+      "image_number": 7,
+      "dish_number": 1,
+      "timestamp": "2025-01-24 15:57:38",
+      "radius": 247.0,
+      "thickness": 232.0
+    },
+    {
+      "image_name": "swarm793",
+      "image_number": 7,
+      "dish_number": 2,
+      "timestamp": "2025-01-24 15:57:39",
+      "radius": 326.0,
+      "thickness": 28.0
+    },
+    {
+      "image_name": "swarm793",
+      "image_number": 7,
+      "dish_number": 3,
+      "timestamp": "2025-01-24 15:57:40",
+      "radius": 326.0,
+      "thickness": 28.0
+    },
+    {
+      "image_name": "swarm793",
+      "image_number": 7,
+      "dish_number": 4,
+      "timestamp": "2025-01-24 15:57:41",
+      "radius": 326.0,
+      "thickness": 27.0
+    },
+    {
+      "image_name": "swarm793",
+      "image_number": 7,
+      "dish_number": 5,
+      "timestamp": "2025-01-24 15:57:42",
+      "radius": 327.0,
+      "thickness": 28.0
+    },
+    {
+      "image_name": "swarm793",
+      "image_number": 7,
+      "dish_number": 6,
+      "timestamp": "2025-01-24 15:57:43",
+      "radius": 340.0,
+      "thickness": 22.0
+    },
+    {
+      "image_name": "swarm794",
+      "image_number": 8,
+      "dish_number": 1,
+      "timestamp": "2025-01-24 15:57:50",
+      "radius": 327.0,
+      "thickness": 29.0
+    },
+    {
+      "image_name": "swarm794",
+      "image_number": 8,
+      "dish_number": 2,
+      "timestamp": "2025-01-24 15:57:51",
+      "radius": 326.0,
+      "thickness": 27.0
+    },
+    {
+      "image_name": "swarm794",
+      "image_number": 8,
+      "dish_number": 3,
+      "timestamp": "2025-01-24 15:57:52",
+      "radius": 334.0,
+      "thickness": 11.0
+    },
+    {
+      "image_name": "swarm794",
+      "image_number": 8,
+      "dish_number": 4,
+      "timestamp": "2025-01-24 15:57:53",
+      "radius": 327.0,
+      "thickness": 28.0
+    },
+    {
+      "image_name": "swarm794",
+      "image_number": 8,
+      "dish_number": 5,
+      "timestamp": "2025-01-24 15:57:54",
+      "radius": 330.0,
+      "thickness": 32.0
+    },
+    {
+      "image_name": "swarm794",
+      "image_number": 8,
+      "dish_number": 6,
+      "timestamp": "2025-01-24 15:57:55",
+      "radius": 327.0,
+      "thickness": 28.0
+    },
+    {
+      "image_name": "swarm795",
+      "image_number": 9,
+      "dish_number": 1,
+      "timestamp": "2025-01-24 15:58:01",
+      "radius": 326.0,
+      "thickness": 27.0
+    },
+    {
+      "image_name": "swarm795",
+      "image_number": 9,
+      "dish_number": 2,
+      "timestamp": "2025-01-24 15:58:02",
+      "radius": 327.0,
+      "thickness": 28.0
+    },
+    {
+      "image_name": "swarm795",
+      "image_number": 9,
+      "dish_number": 3,
+      "timestamp": "2025-01-24 15:58:03",
+      "radius": 340.0,
+      "thickness": 24.0
+    },
+    {
+      "image_name": "swarm795",
+      "image_number": 9,
+      "dish_number": 4,
+      "timestamp": "2025-01-24 15:58:04",
+      "radius": 323.0,
+      "thickness": 23.0
+    },
+    {
+      "image_name": "swarm795",
+      "image_number": 9,
+      "dish_number": 5,
+      "timestamp": "2025-01-24 15:58:05",
+      "radius": 327.0,
+      "thickness": 28.0
+    },
+    {
+      "image_name": "swarm795",
+      "image_number": 9,
+      "dish_number": 6,
+      "timestamp": "2025-01-24 15:58:06",
+      "radius": 326.0,
+      "thickness": 27.0
+    },
+    {
+      "image_name": "swarm796",
+      "image_number": 10,
+      "dish_number": 1,
+      "timestamp": "2025-01-24 15:58:13",
+      "radius": 327.0,
+      "thickness": 28.0
+    },
+    {
+      "image_name": "swarm796",
+      "image_number": 10,
+      "dish_number": 2,
+      "timestamp": "2025-01-24 15:58:14",
+      "radius": 326.0,
+      "thickness": 27.0
+    },
+    {
+      "image_name": "swarm796",
+      "image_number": 10,
+      "dish_number": 3,
+      "timestamp": "2025-01-24 15:58:15",
+      "radius": 340.0,
+      "thickness": 24.0
+    },
+    {
+      "image_name": "swarm796",
+      "image_number": 10,
+      "dish_number": 4,
+      "timestamp": "2025-01-24 15:58:16",
+      "radius": 327.0,
+      "thickness": 28.0
+    },
+    {
+      "image_name": "swarm796",
+      "image_number": 10,
+      "dish_number": 5,
+      "timestamp": "2025-01-24 15:58:17",
+      "radius": 351.0,
+      "thickness": 74.0
+    },
+    {
+      "image_name": "swarm796",
+      "image_number": 10,
+      "dish_number": 6,
+      "timestamp": "2025-01-24 15:58:18",
+      "radius": 326.0,
+      "thickness": 27.0
+    },
+    {
+      "image_name": "swarm797",
+      "image_number": 11,
+      "dish_number": 1,
+      "timestamp": "2025-01-24 15:58:24",
+      "radius": 327.0,
+      "thickness": 28.0
+    },
+    {
+      "image_name": "swarm797",
+      "image_number": 11,
+      "dish_number": 2,
+      "timestamp": "2025-01-24 15:58:25",
+      "radius": 326.0,
+      "thickness": 28.0
+    },
+    {
+      "image_name": "swarm797",
+      "image_number": 11,
+      "dish_number": 3,
+      "timestamp": "2025-01-24 15:58:26",
+      "radius": 333.0,
+      "thickness": 3.0
+    },
+    {
+      "image_name": "swarm797",
+      "image_number": 11,
+      "dish_number": 4,
+      "timestamp": "2025-01-24 15:58:27",
+      "radius": 327.0,
+      "thickness": 28.0
+    },
+    {
+      "image_name": "swarm797",
+      "image_number": 11,
+      "dish_number": 5,
+      "timestamp": "2025-01-24 15:58:28",
+      "radius": 331.0,
+      "thickness": 33.0
+    },
+    {
+      "image_name": "swarm797",
+      "image_number": 11,
+      "dish_number": 6,
+      "timestamp": "2025-01-24 15:58:29",
+      "radius": 360.0,
+      "thickness": 68.0
+    },
+    {
+      "image_name": "swarm798",
+      "image_number": 12,
+      "dish_number": 1,
+      "timestamp": "2025-01-24 15:58:36",
+      "radius": 352.0,
+      "thickness": 306.0
+    },
+    {
+      "image_name": "swarm798",
+      "image_number": 12,
+      "dish_number": 2,
+      "timestamp": "2025-01-24 15:58:37",
+      "radius": 326.0,
+      "thickness": 27.0
+    },
+    {
+      "image_name": "swarm798",
+      "image_number": 12,
+      "dish_number": 3,
+      "timestamp": "2025-01-24 15:58:38",
+      "radius": 329.0,
+      "thickness": 14.0
+    },
+    {
+      "image_name": "swarm798",
+      "image_number": 12,
+      "dish_number": 4,
+      "timestamp": "2025-01-24 15:58:39",
+      "radius": 327.0,
+      "thickness": 28.0
+    },
+    {
+      "image_name": "swarm798",
+      "image_number": 12,
+      "dish_number": 5,
+      "timestamp": "2025-01-24 15:58:40",
+      "radius": 326.0,
+      "thickness": 27.0
+    },
+    {
+      "image_name": "swarm798",
+      "image_number": 12,
+      "dish_number": 6,
+      "timestamp": "2025-01-24 15:58:41",
+      "radius": 327.0,
+      "thickness": 28.0
+    },
+    {
+      "image_name": "swarm799",
+      "image_number": 13,
+      "dish_number": 1,
+      "timestamp": "2025-01-24 15:58:48",
+      "radius": 350.0,
+      "thickness": 302.0
+    },
+    {
+      "image_name": "swarm799",
+      "image_number": 13,
+      "dish_number": 2,
+      "timestamp": "2025-01-24 15:58:49",
+      "radius": 327.0,
+      "thickness": 28.0
+    },
+    {
+      "image_name": "swarm799",
+      "image_number": 13,
+      "dish_number": 3,
+      "timestamp": "2025-01-24 15:58:50",
+      "radius": 326.0,
+      "thickness": 28.0
+    },
+    {
+      "image_name": "swarm799",
+      "image_number": 13,
+      "dish_number": 4,
+      "timestamp": "2025-01-24 15:58:51",
+      "radius": 336.0,
+      "thickness": 15.0
+    },
+    {
+      "image_name": "swarm799",
+      "image_number": 13,
+      "dish_number": 5,
+      "timestamp": "2025-01-24 15:58:52",
+      "radius": 331.0,
+      "thickness": 33.0
+    },
+    {
+      "image_name": "swarm799",
+      "image_number": 13,
+      "dish_number": 6,
+      "timestamp": "2025-01-24 15:58:53",
+      "radius": 341.0,
+      "thickness": 24.0
+    },
+    {
+      "image_name": "swarm800",
+      "image_number": 14,
+      "dish_number": 1,
+      "timestamp": "2025-01-24 15:58:59",
+      "radius": 328.0,
+      "thickness": 29.0
+    },
+    {
+      "image_name": "swarm800",
+      "image_number": 14,
+      "dish_number": 2,
+      "timestamp": "2025-01-24 15:59:00",
+      "radius": 326.0,
+      "thickness": 28.0
+    },
+    {
+      "image_name": "swarm800",
+      "image_number": 14,
+      "dish_number": 3,
+      "timestamp": "2025-01-24 15:59:01",
+      "radius": 326.0,
+      "thickness": 28.0
+    },
+    {
+      "image_name": "swarm800",
+      "image_number": 14,
+      "dish_number": 4,
+      "timestamp": "2025-01-24 15:59:02",
+      "radius": 326.0,
+      "thickness": 27.0
+    },
+    {
+      "image_name": "swarm800",
+      "image_number": 14,
+      "dish_number": 5,
+      "timestamp": "2025-01-24 15:59:03",
+      "radius": 353.0,
+      "thickness": 101.0
+    },
+    {
+      "image_name": "swarm800",
+      "image_number": 14,
+      "dish_number": 6,
+      "timestamp": "2025-01-24 15:59:04",
+      "radius": 341.0,
+      "thickness": 24.0
+    },
+    {
+      "image_name": "swarm801",
+      "image_number": 15,
+      "dish_number": 1,
+      "timestamp": "2025-01-24 15:59:11",
+      "radius": 326.0,
+      "thickness": 27.0
+    },
+    {
+      "image_name": "swarm801",
+      "image_number": 15,
+      "dish_number": 2,
+      "timestamp": "2025-01-24 15:59:12",
+      "radius": 326.0,
+      "thickness": 27.0
+    },
+    {
+      "image_name": "swarm801",
+      "image_number": 15,
+      "dish_number": 3,
+      "timestamp": "2025-01-24 15:59:13",
+      "radius": 326.0,
+      "thickness": 28.0
+    },
+    {
+      "image_name": "swarm801",
+      "image_number": 15,
+      "dish_number": 4,
+      "timestamp": "2025-01-24 15:59:14",
+      "radius": 329.0,
+      "thickness": 14.0
+    },
+    {
+      "image_name": "swarm801",
+      "image_number": 15,
+      "dish_number": 5,
+      "timestamp": "2025-01-24 15:59:15",
+      "radius": 326.0,
+      "thickness": 27.0
+    },
+    {
+      "image_name": "swarm801",
+      "image_number": 15,
+      "dish_number": 6,
+      "timestamp": "2025-01-24 15:59:16",
+      "radius": 341.0,
+      "thickness": 24.0
+    },
+    {
+      "image_name": "swarm802",
+      "image_number": 16,
+      "dish_number": 1,
+      "timestamp": "2025-01-24 15:59:22",
+      "radius": 327.0,
+      "thickness": 29.0
+    },
+    {
+      "image_name": "swarm802",
+      "image_number": 16,
+      "dish_number": 2,
+      "timestamp": "2025-01-24 15:59:23",
+      "radius": 327.0,
+      "thickness": 28.0
+    },
+    {
+      "image_name": "swarm802",
+      "image_number": 16,
+      "dish_number": 3,
+      "timestamp": "2025-01-24 15:59:24",
+      "radius": 316.0,
+      "thickness": 305.0
+    },
+    {
+      "image_name": "swarm802",
+      "image_number": 16,
+      "dish_number": 4,
+      "timestamp": "2025-01-24 15:59:25",
+      "radius": 327.0,
+      "thickness": 28.0
+    },
+    {
+      "image_name": "swarm802",
+      "image_number": 16,
+      "dish_number": 5,
+      "timestamp": "2025-01-24 15:59:26",
+      "radius": 326.0,
+      "thickness": 27.0
+    },
+    {
+      "image_name": "swarm802",
+      "image_number": 16,
+      "dish_number": 6,
+      "timestamp": "2025-01-24 15:59:27",
+      "radius": 341.0,
+      "thickness": 24.0
+    },
+    {
+      "image_name": "swarm803",
+      "image_number": 17,
+      "dish_number": 1,
+      "timestamp": "2025-01-24 15:59:34",
+      "radius": 12.0,
+      "thickness": 6.0
+    },
+    {
+      "image_name": "swarm803",
+      "image_number": 17,
+      "dish_number": 2,
+      "timestamp": "2025-01-24 15:59:35",
+      "radius": 327.0,
+      "thickness": 29.0
+    },
+    {
+      "image_name": "swarm803",
+      "image_number": 17,
+      "dish_number": 3,
+      "timestamp": "2025-01-24 15:59:36",
+      "radius": 341.0,
+      "thickness": 25.0
+    },
+    {
+      "image_name": "swarm803",
+      "image_number": 17,
+      "dish_number": 4,
+      "timestamp": "2025-01-24 15:59:37",
+      "radius": 327.0,
+      "thickness": 29.0
+    },
+    {
+      "image_name": "swarm803",
+      "image_number": 17,
+      "dish_number": 5,
+      "timestamp": "2025-01-24 15:59:38",
+      "radius": 331.0,
+      "thickness": 33.0
+    },
+    {
+      "image_name": "swarm803",
+      "image_number": 17,
+      "dish_number": 6,
+      "timestamp": "2025-01-24 15:59:39",
+      "radius": 317.0,
+      "thickness": 10.0
+    },
+    {
+      "image_name": "swarm804",
+      "image_number": 18,
+      "dish_number": 1,
+      "timestamp": "2025-01-24 15:59:46",
+      "radius": 351.0,
+      "thickness": 47.0
+    },
+    {
+      "image_name": "swarm804",
+      "image_number": 18,
+      "dish_number": 2,
+      "timestamp": "2025-01-24 15:59:47",
+      "radius": 327.0,
+      "thickness": 29.0
+    },
+    {
+      "image_name": "swarm804",
+      "image_number": 18,
+      "dish_number": 3,
+      "timestamp": "2025-01-24 15:59:48",
+      "radius": 327.0,
+      "thickness": 28.0
+    },
+    {
+      "image_name": "swarm804",
+      "image_number": 18,
+      "dish_number": 4,
+      "timestamp": "2025-01-24 15:59:48",
+      "radius": 326.0,
+      "thickness": 27.0
+    },
+    {
+      "image_name": "swarm804",
+      "image_number": 18,
+      "dish_number": 5,
+      "timestamp": "2025-01-24 15:59:49",
+      "radius": 326.0,
+      "thickness": 27.0
+    },
+    {
+      "image_name": "swarm804",
+      "image_number": 18,
+      "dish_number": 6,
+      "timestamp": "2025-01-24 15:59:50",
+      "radius": 327.0,
+      "thickness": 29.0
+    },
+    {
+      "image_name": "swarm805",
+      "image_number": 19,
+      "dish_number": 1,
+      "timestamp": "2025-01-24 15:59:57",
+      "radius": 327.0,
+      "thickness": 28.0
+    },
+    {
+      "image_name": "swarm805",
+      "image_number": 19,
+      "dish_number": 2,
+      "timestamp": "2025-01-24 15:59:58",
+      "radius": 328.0,
+      "thickness": 29.0
+    },
+    {
+      "image_name": "swarm805",
+      "image_number": 19,
+      "dish_number": 3,
+      "timestamp": "2025-01-24 15:59:59",
+      "radius": 327.0,
+      "thickness": 28.0
+    },
+    {
+      "image_name": "swarm805",
+      "image_number": 19,
+      "dish_number": 4,
+      "timestamp": "2025-01-24 16:00:00",
+      "radius": 327.0,
+      "thickness": 28.0
+    },
+    {
+      "image_name": "swarm805",
+      "image_number": 19,
+      "dish_number": 5,
+      "timestamp": "2025-01-24 16:00:01",
+      "radius": 327.0,
+      "thickness": 29.0
+    },
+    {
+      "image_name": "swarm805",
+      "image_number": 19,
+      "dish_number": 6,
+      "timestamp": "2025-01-24 16:00:02",
+      "radius": 329.0,
+      "thickness": 31.0
+    },
+    {
+      "image_name": "swarm806",
+      "image_number": 20,
+      "dish_number": 1,
+      "timestamp": "2025-01-24 16:00:08",
+      "radius": 328.0,
+      "thickness": 29.0
+    },
+    {
+      "image_name": "swarm806",
+      "image_number": 20,
+      "dish_number": 2,
+      "timestamp": "2025-01-24 16:00:09",
+      "radius": 328.0,
+      "thickness": 24.0
+    },
+    {
+      "image_name": "swarm806",
+      "image_number": 20,
+      "dish_number": 3,
+      "timestamp": "2025-01-24 16:00:10",
+      "radius": 326.0,
+      "thickness": 27.0
+    },
+    {
+      "image_name": "swarm806",
+      "image_number": 20,
+      "dish_number": 4,
+      "timestamp": "2025-01-24 16:00:11",
+      "radius": 328.0,
+      "thickness": 30.0
+    },
+    {
+      "image_name": "swarm806",
+      "image_number": 20,
+      "dish_number": 5,
+      "timestamp": "2025-01-24 16:00:12",
+      "radius": 327.0,
+      "thickness": 28.0
+    },
+    {
+      "image_name": "swarm806",
+      "image_number": 20,
+      "dish_number": 6,
+      "timestamp": "2025-01-24 16:00:13",
+      "radius": 327.0,
+      "thickness": 29.0
+    },
+    {
+      "image_name": "swarm807",
+      "image_number": 21,
+      "dish_number": 1,
+      "timestamp": "2025-01-24 16:00:20",
+      "radius": 326.0,
+      "thickness": 28.0
+    },
+    {
+      "image_name": "swarm807",
+      "image_number": 21,
+      "dish_number": 2,
+      "timestamp": "2025-01-24 16:00:21",
+      "radius": 326.0,
+      "thickness": 27.0
+    },
+    {
+      "image_name": "swarm807",
+      "image_number": 21,
+      "dish_number": 3,
+      "timestamp": "2025-01-24 16:00:22",
+      "radius": 327.0,
+      "thickness": 28.0
+    },
+    {
+      "image_name": "swarm807",
+      "image_number": 21,
+      "dish_number": 4,
+      "timestamp": "2025-01-24 16:00:23",
+      "radius": 331.0,
+      "thickness": 32.0
+    },
+    {
+      "image_name": "swarm807",
+      "image_number": 21,
+      "dish_number": 5,
+      "timestamp": "2025-01-24 16:00:24",
+      "radius": 361.0,
+      "thickness": 66.0
+    },
+    {
+      "image_name": "swarm807",
+      "image_number": 21,
+      "dish_number": 6,
+      "timestamp": "2025-01-24 16:00:25",
+      "radius": 302.0,
+      "thickness": 60.400000000000006
+    },
+    {
+      "image_name": "swarm808",
+      "image_number": 22,
+      "dish_number": 1,
+      "timestamp": "2025-01-24 16:00:31",
+      "radius": 327.0,
+      "thickness": 28.0
+    },
+    {
+      "image_name": "swarm808",
+      "image_number": 22,
+      "dish_number": 2,
+      "timestamp": "2025-01-24 16:00:32",
+      "radius": 328.0,
+      "thickness": 29.0
+    },
+    {
+      "image_name": "swarm808",
+      "image_number": 22,
+      "dish_number": 3,
+      "timestamp": "2025-01-24 16:00:33",
+      "radius": 327.0,
+      "thickness": 28.0
+    },
+    {
+      "image_name": "swarm808",
+      "image_number": 22,
+      "dish_number": 4,
+      "timestamp": "2025-01-24 16:00:34",
+      "radius": 327.0,
+      "thickness": 28.0
+    },
+    {
+      "image_name": "swarm808",
+      "image_number": 22,
+      "dish_number": 5,
+      "timestamp": "2025-01-24 16:00:35",
+      "radius": 327.0,
+      "thickness": 28.0
+    },
+    {
+      "image_name": "swarm808",
+      "image_number": 22,
+      "dish_number": 6,
+      "timestamp": "2025-01-24 16:00:36",
+      "radius": 353.0,
+      "thickness": 47.0
+    },
+    {
+      "image_name": "swarm809",
+      "image_number": 23,
+      "dish_number": 1,
+      "timestamp": "2025-01-24 16:00:43",
+      "radius": 327.0,
+      "thickness": 28.0
+    },
+    {
+      "image_name": "swarm809",
+      "image_number": 23,
+      "dish_number": 2,
+      "timestamp": "2025-01-24 16:00:44",
+      "radius": 327.0,
+      "thickness": 29.0
+    },
+    {
+      "image_name": "swarm809",
+      "image_number": 23,
+      "dish_number": 3,
+      "timestamp": "2025-01-24 16:00:45",
+      "radius": 327.0,
+      "thickness": 28.0
+    },
+    {
+      "image_name": "swarm809",
+      "image_number": 23,
+      "dish_number": 4,
+      "timestamp": "2025-01-24 16:00:46",
+      "radius": 327.0,
+      "thickness": 28.0
+    },
+    {
+      "image_name": "swarm809",
+      "image_number": 23,
+      "dish_number": 5,
+      "timestamp": "2025-01-24 16:00:47",
+      "radius": 328.0,
+      "thickness": 29.0
+    },
+    {
+      "image_name": "swarm809",
+      "image_number": 23,
+      "dish_number": 6,
+      "timestamp": "2025-01-24 16:00:48",
+      "radius": 334.0,
+      "thickness": 14.0
+    },
+    {
+      "image_name": "swarm810",
+      "image_number": 24,
+      "dish_number": 1,
+      "timestamp": "2025-01-24 16:00:54",
+      "radius": 328.0,
+      "thickness": 30.0
+    },
+    {
+      "image_name": "swarm810",
+      "image_number": 24,
+      "dish_number": 2,
+      "timestamp": "2025-01-24 16:00:55",
+      "radius": 328.0,
+      "thickness": 29.0
+    },
+    {
+      "image_name": "swarm810",
+      "image_number": 24,
+      "dish_number": 3,
+      "timestamp": "2025-01-24 16:00:56",
+      "radius": 433.0,
+      "thickness": 86.60000000000001
+    },
+    {
+      "image_name": "swarm810",
+      "image_number": 24,
+      "dish_number": 4,
+      "timestamp": "2025-01-24 16:00:57",
+      "radius": 327.0,
+      "thickness": 29.0
+    },
+    {
+      "image_name": "swarm810",
+      "image_number": 24,
+      "dish_number": 5,
+      "timestamp": "2025-01-24 16:00:58",
+      "radius": 327.0,
+      "thickness": 28.0
+    },
+    {
+      "image_name": "swarm810",
+      "image_number": 24,
+      "dish_number": 6,
+      "timestamp": "2025-01-24 16:00:59",
+      "radius": 351.0,
+      "thickness": 42.0
+    },
+    {
+      "image_name": "swarm811",
+      "image_number": 25,
+      "dish_number": 1,
+      "timestamp": "2025-01-24 16:01:06",
+      "radius": 326.0,
+      "thickness": 27.0
+    },
+    {
+      "image_name": "swarm811",
+      "image_number": 25,
+      "dish_number": 2,
+      "timestamp": "2025-01-24 16:01:07",
+      "radius": 334.0,
+      "thickness": 10.0
+    },
+    {
+      "image_name": "swarm811",
+      "image_number": 25,
+      "dish_number": 3,
+      "timestamp": "2025-01-24 16:01:08",
+      "radius": 328.0,
+      "thickness": 29.0
+    },
+    {
+      "image_name": "swarm811",
+      "image_number": 25,
+      "dish_number": 4,
+      "timestamp": "2025-01-24 16:01:09",
+      "radius": 327.0,
+      "thickness": 28.0
+    },
+    {
+      "image_name": "swarm811",
+      "image_number": 25,
+      "dish_number": 5,
+      "timestamp": "2025-01-24 16:01:10",
+      "radius": 351.0,
+      "thickness": 42.0
+    },
+    {
+      "image_name": "swarm811",
+      "image_number": 25,
+      "dish_number": 6,
+      "timestamp": "2025-01-24 16:01:11",
+      "radius": 327.0,
+      "thickness": 29.0
+    },
+    {
+      "image_name": "swarm812",
+      "image_number": 26,
+      "dish_number": 1,
+      "timestamp": "2025-01-24 16:01:18",
+      "radius": 327.0,
+      "thickness": 29.0
+    },
+    {
+      "image_name": "swarm812",
+      "image_number": 26,
+      "dish_number": 2,
+      "timestamp": "2025-01-24 16:01:19",
+      "radius": 353.0,
+      "thickness": 342.0
+    },
+    {
+      "image_name": "swarm812",
+      "image_number": 26,
+      "dish_number": 3,
+      "timestamp": "2025-01-24 16:01:20",
+      "radius": 327.0,
+      "thickness": 28.0
+    },
+    {
+      "image_name": "swarm812",
+      "image_number": 26,
+      "dish_number": 4,
+      "timestamp": "2025-01-24 16:01:21",
+      "radius": 328.0,
+      "thickness": 29.0
+    },
+    {
+      "image_name": "swarm812",
+      "image_number": 26,
+      "dish_number": 5,
+      "timestamp": "2025-01-24 16:01:22",
+      "radius": 328.0,
+      "thickness": 29.0
+    },
+    {
+      "image_name": "swarm812",
+      "image_number": 26,
+      "dish_number": 6,
+      "timestamp": "2025-01-24 16:01:23",
+      "radius": 329.0,
+      "thickness": 13.0
+    },
+    {
+      "image_name": "swarm813",
+      "image_number": 27,
+      "dish_number": 1,
+      "timestamp": "2025-01-24 16:01:29",
+      "radius": 328.0,
+      "thickness": 29.0
+    },
+    {
+      "image_name": "swarm813",
+      "image_number": 27,
+      "dish_number": 2,
+      "timestamp": "2025-01-24 16:01:30",
+      "radius": 328.0,
+      "thickness": 29.0
+    },
+    {
+      "image_name": "swarm813",
+      "image_number": 27,
+      "dish_number": 3,
+      "timestamp": "2025-01-24 16:01:31",
+      "radius": 342.0,
+      "thickness": 23.0
+    },
+    {
+      "image_name": "swarm813",
+      "image_number": 27,
+      "dish_number": 4,
+      "timestamp": "2025-01-24 16:01:32",
+      "radius": 328.0,
+      "thickness": 29.0
+    },
+    {
+      "image_name": "swarm813",
+      "image_number": 27,
+      "dish_number": 5,
+      "timestamp": "2025-01-24 16:01:33",
+      "radius": 327.0,
+      "thickness": 28.0
+    },
+    {
+      "image_name": "swarm813",
+      "image_number": 27,
+      "dish_number": 6,
+      "timestamp": "2025-01-24 16:01:34",
+      "radius": 327.0,
+      "thickness": 29.0
+    }
+  ]
+}
